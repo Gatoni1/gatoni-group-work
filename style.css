@@ -1,0 +1,11 @@
+.div{
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    display: flex;
+}
+.sub{
+    border: 2px solid black;
+    padding: 27px;
+    background-color: antiquewhite;
+}
